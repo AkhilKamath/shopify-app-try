@@ -19,3 +19,7 @@ config/tunnel.pid
 
 # next build output
 .next/
+
+./pages/my-subscriptions.js
+./pages/selling-plans.js
+
